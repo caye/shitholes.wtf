@@ -1,0 +1,26 @@
+{
+  "name": "shitholes.wtf",
+  "version": "1.0.0",
+  "description": "Repository for project shitholes.wtf",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caye/shitholes.wtf.git"
+  },
+  "keywords": [
+    "npm",
+    "shitholes"
+  ],
+  "author": "Cayetano Ruiz <caye.suomi@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/caye/shitholes.wtf/issues"
+  },
+  "homepage": "https://github.com/caye/shitholes.wtf#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
